@@ -13,27 +13,20 @@
   ---
 
   ### 🌷 About Me
-  - CS student from Dehradun, turning ideas into code step by step
-  - Passionate about learning new technologies and solving problems gently
+  - CS student, turning ideas into code step by step
+  - Passionate about learning new technologies and solving problems
   - Love building small, meaningful projects
-  - When I'm not coding, I enjoy sketching, reading, or spending time in the hills
 
-  Reach me at: **your-email@example.com**
 
+  Reach me at: tushitasharma833@gmail.com
   ---
 
   ### 💖 Tech Stack
 
   ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat-square)
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
-  ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square)
-  ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 
-  (Add or remove any badges according to what you actually use)
-
-  ---
 
   ### ✨ My GitHub Stats
 
