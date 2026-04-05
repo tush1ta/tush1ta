@@ -10,7 +10,7 @@
   ---
 
   ### 🌷 About Me
-  - CS student from Dehradun, turning ideas into code step by step
+  - CS student, turning ideas into code step by step
   - Passionate about learning new technologies and solving problems 
   - Love building small, meaningful project
 
