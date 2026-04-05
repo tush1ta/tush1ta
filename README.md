@@ -3,7 +3,7 @@
   <h2>Hi there, I'm Tushita 🌸</h2>
 
   <!-- Soft Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learn+%7C+create;repeat+%26;&font=Fira+Code&center=true&width=620&height=80&color=FF99CC&size=22" alt="Typing">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learn+create+repeat+%26;&font=Fira+Code&center=true&width=620&height=80&color=FF99CC&size=22" alt="Typing">
 
   ---
 
