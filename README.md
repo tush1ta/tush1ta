@@ -2,10 +2,8 @@
 
   <h2>Hi there, I'm Tushita 🌸</h2>
 
-  <p><strong>Code. Learn. Create. Repeat.</strong></p>
-
   <!-- Soft Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=CS+Student+%7C+Aspiring+Developer;Building+things+with+care+%26+creativity;Currently+exploring+new+technologies&font=Fira+Code&center=true&width=620&height=80&color=FF99CC&size=22" alt="Typing">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learn+%7C+create;repeat+%26;&font=Fira+Code&center=true&width=620&height=80&color=FF99CC&size=22" alt="Typing">
 
   ---
 
