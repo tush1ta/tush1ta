@@ -2,28 +2,27 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # runs every 6 hours (better than once a day)
+    - cron: "0 */6 * * *"   # runs every 6 hours
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
       - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#FF00FF&color_dots=#1a1a1a,#00FF9F,#00FF9F,#00FF9F,#FF00FF&color_background=#0A0A0A
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#FF00FF
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-          commit_message: Update snake animation
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
