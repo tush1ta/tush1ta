@@ -12,7 +12,7 @@
   - Passionate about learning new technologies and solving problems 
   - Love building small, meaningful project
 
-  Reach me at: **tushitasharma833@gmail.com**
+
 
   ---
 
